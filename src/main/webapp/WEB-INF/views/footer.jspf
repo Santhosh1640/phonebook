@@ -1,0 +1,21 @@
+</div>
+<!-- Footer -->
+<div class="container text-center">
+
+	<div>
+		Change theme: <br>
+		<a href="./theme?name=blue"><button type="button" class="btn btn-outline-primary" fdprocessedid="lurl9p">Blue</button></a>
+		<a href="./theme?name=minty"><button type="button" class="btn btn-outline-primary" fdprocessedid="lurl9p">Minty</button></a>
+		<a href="./theme?name=orange"><button type="button" class="btn btn-outline-primary" fdprocessedid="lurl9p">Orange</button></a>
+		<a href="./theme?name=sketchy"><button type="button" class="btn btn-outline-primary" fdprocessedid="lurl9p">Sketchy</button></a>
+		<a href="./theme?name=vapor"><button type="button" class="btn btn-outline-primary" fdprocessedid="lurl9p">Vapor</button></a>
+	</div>
+
+	<br>
+	<br>
+	&copy; 2023-2024 All rights reserved by
+	<h5>Santhu.co</h5>
+</div>
+
+</body>
+</html>
